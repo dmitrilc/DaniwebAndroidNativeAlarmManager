@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Android Native AlarmManager</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+</resources>
